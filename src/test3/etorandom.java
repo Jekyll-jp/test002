@@ -26,7 +26,7 @@ public class etorandom {
 	public static void main(String[] args) {
 
 		//検索は1900～2100年までを対象とする。
-		//1900年に満たない場合は再度yearsetメソッドを呼び出す
+		//1900年に満たない場合は再度yearsetメソッドを呼び出す。
 		int year = 0;
 
 		do {
